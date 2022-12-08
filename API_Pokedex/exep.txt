@@ -1,0 +1,5 @@
+para criar arquivo $touch nomedoarqvo.extensão 
+servidor npm -g install http-server 
+Normalize.css = cdn normalize css 
+
+_Dica { inspencioar.. > Rede > DesativarCaches}
